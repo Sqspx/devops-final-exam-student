@@ -1,0 +1,7 @@
+ชื่อ-สกุล: ปิติกร แก้วยาว
+ระดับชั้น: ปวส. 1
+แผนกวิชา: เทคโนโลยีสารสนเทศ
+เลขที่: [ใส่เลขที่ของตัวเอง]
+วันที่สอบ: 17/09/2569
+ชื่อ Repository: devops-final-exam-student
+ลิงก์ GitHub Repository: https://github.com/Sqspx/devops-final-exam-student
